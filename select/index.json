@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "GAS GAS GAS(EXTENDED MIX)",
+  "base_artist": "MANUEL",
+  "createdAt": "2026-01-07T06:53:24.639861Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GAS GAS GAS(EXTENDED MIX)",
+      "artist": "MANUEL",
+      "has_synced": true,
+      "path": "select/01_GAS_GAS_GAS(EXTENDED_MIX)_MANUEL.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GAS GAS GAS - EXTENDED MIX",
+      "artist": "Manuel",
+      "has_synced": true,
+      "path": "select/02_GAS_GAS_GAS_-_EXTENDED_MIX_Manuel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GAS GAS GAS (EXTENDED MIX)",
+      "artist": "Manuel",
+      "has_synced": true,
+      "path": "select/03_GAS_GAS_GAS_(EXTENDED_MIX)_Manuel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "GAS GAS GAS (EXTENDED MIX)",
+      "artist": "Manuel",
+      "has_synced": true,
+      "path": "select/04_GAS_GAS_GAS_(EXTENDED_MIX)_Manuel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "GAS GAS GAS - EXTENDED MIX",
+      "artist": "Manuel",
+      "has_synced": true,
+      "path": "select/05_GAS_GAS_GAS_-_EXTENDED_MIX_Manuel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Manuel - Gas Gas Gas(Extended Mix)",
+      "artist": "Xpert GAMING",
+      "has_synced": false,
+      "path": "select/06_Manuel_-_Gas_Gas_Gas(Extended_Mix)_Xpert_GAMING.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "GAS GAS GAS - EXTENDED MIX (Paused)",
+      "artist": "Manuel",
+      "has_synced": true,
+      "path": "select/07_GAS_GAS_GAS_-_EXTENDED_MIX_(Paused)_Manuel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gas Gas Gas (Extended Mix)",
+      "artist": "MANUEL",
+      "has_synced": true,
+      "path": "select/08_Gas_Gas_Gas_(Extended_Mix)_MANUEL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GAS GAS GAS - Extended MIx",
+      "artist": "Manuel",
+      "has_synced": false,
+      "path": "select/pl_01_GAS_GAS_GAS_-_Extended_MIx_Manuel.txt"
+    }
+  ]
+}
